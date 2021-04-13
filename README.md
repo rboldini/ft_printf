@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/>
+  <img src="https://badge42.herokuapp.com/api/stats/rboldini?privacyEmail=true"/>
 </p>
 <h3 align="center">
   FT_PRINTF
@@ -20,14 +20,14 @@
   Evaluation
 </h2>
 <p align="center">
-  <img src="https://badge42.herokuapp.com/api/project/raccoman/ft_printf"/>
+  <img src="https://badge42.herokuapp.com/api/project/rboldini/ft_printf"/>
 </p>
 
 <h2 align="center">
   Contact
 </h2>
 <p align="center">
-  This is my ft_printf project from the 42 cursus, need help: raccoman@student.42roma.it
+  This is my ft_printf project from the 42 cursus, need help: rboldini@student.42roma.it
 </p>
 
 <p align="center">
